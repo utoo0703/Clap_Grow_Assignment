@@ -2,6 +2,16 @@
 #  Clap Grow Assignment- Insurance Premium Comparison
 by Utsav Sarkar
 
+## Google Sheets Document
+
+The comparison of insurance premium values is facilitated by a Google Sheets document. This document contains the data used for comparison, including the net premium values.
+
+You can access the Google Sheets document using the following link:
+[Insurance Premium Comparison Google Sheets](https://docs.google.com/spreadsheets/d/1QWkidhuTNwYPy-C5rVL_ePDaWi8QvfWOSfQR-qDDaSo/edit#gid=0)
+
+![Screenshot 2024-06-06 231923](https://github.com/utoo0703/Clap_Grow_Assignment/assets/78578594/67ead6ee-458b-4232-9a6d-cbc4d02befa7)
+
+
 This repository contains three Python scripts for comparing insurance premium values:
 
 1. **compare_premium_hardcoded.py**: This script compares a hardcoded net premium value with a value retrieved from a Google Sheet. It demonstrates basic comparison logic.

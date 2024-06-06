@@ -9,8 +9,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 import os
 
 # Path to the credentials JSON file
-credentials_file = 'B:\\CLAP GROW\\credentials.json'
-
+credentials_file = 'B:\\CLAP GROW\Clap_Grow_Assignment\\credentials.json'
 # Check if the credentials file exists
 if not os.path.exists(credentials_file):
     raise FileNotFoundError(f"The credentials file was not found at {credentials_file}")

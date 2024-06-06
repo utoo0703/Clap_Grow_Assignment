@@ -23,6 +23,15 @@ This script reads a net premium value from a PDF document and compares it with a
 
 This script lists all available spreadsheets accessible by the authorized client in the Google Sheets API. Run the script to see the list of available spreadsheets in the console.
 
+## Google Sheets API Authentication
+
+The Google Sheets API requires authentication to access Google Sheets data. This authentication is handled using service account credentials, which are stored in a JSON file provided by Google.
+
+To authenticate with the Google Sheets API in these scripts, you need to obtain a service account credentials JSON file from the Google Cloud Console and place it in the project directory with the name `credentials.json`.
+
+The `credentials.json` file contains information about the service account, including the private key, client email, and other authentication details. This file is securely used by the scripts to authorize access to Google Sheets data.
+
+
 ## Screenshots
 ![image](https://github.com/utoo0703/Clap_Grow_Assignment/assets/78578594/194e4e7f-0156-49dc-91a2-e0239b512c9c)
 

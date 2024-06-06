@@ -1,5 +1,6 @@
 
 #  Clap Grow Assignment- Insurance Premium Comparison
+by Utsav Sarkar
 
 This repository contains three Python scripts for comparing insurance premium values:
 

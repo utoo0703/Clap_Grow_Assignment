@@ -42,6 +42,8 @@ To authenticate with the Google Sheets API in these scripts, you need to obtain 
 
 The `credentials.json` file contains information about the service account, including the private key, client email, and other authentication details. This file is securely used by the scripts to authorize access to Google Sheets data.
 
+![image](https://github.com/utoo0703/Clap_Grow_Assignment/assets/78578594/ab4fc4b3-d017-4f48-9a31-c17649e11f6d)
+
 
 ## CONSOLE OUTPUT SCREENSHOT
 ![image](https://github.com/utoo0703/Clap_Grow_Assignment/assets/78578594/194e4e7f-0156-49dc-91a2-e0239b512c9c)
